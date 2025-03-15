@@ -18,12 +18,12 @@ google-api-python-client==2.158.0
 google-auth==2.37.0
 chromadb==0.6.3
 
-# LangChain-related dependencies (updated)
-langchain==0.2.1
-langchain-community==0.3.15
-langchain-core==0.3.31
-langchain-pinecone==0.0.2
-langchain-groq==0.0.4
+# Updated LangChain dependencies
+langchain
+langchain-community
+langchain-core
+langchain-pinecone
+langchain-groq
 
-# Pinecone (required separately)
-pinecone-client==3.2.2
+# Pinecone dependency
+pinecone-client
