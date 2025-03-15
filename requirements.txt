@@ -16,18 +16,8 @@ sentence-transformers==3.3.0
 faiss-cpu==1.9.0
 google-api-python-client==2.158.0
 google-auth==2.37.0
-chromadb==0.6.3
-
-# Updated LangChain dependencies
-langchain
-langchain-community
-langchain-core
-langchain-pinecone
-langchain-groq
-
-# Pinecone dependency
-pinecone-client
-pinecone-client==3.0.2  # Ensure Pinecone is installed
-langchain-pinecone==0.0.2  # Ensure compatibility with LangChain
 langchain-community==0.3.15
 langchain-core==0.3.31
+chromadb==0.6.3
+langchain-pinecone
+langchain-groq
