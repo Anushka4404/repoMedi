@@ -27,3 +27,5 @@ langchain-groq
 
 # Pinecone dependency
 pinecone-client
+pinecone-client==3.0.2  # Ensure Pinecone is installed
+langchain-pinecone==0.0.2  # Ensure compatibility with LangChain
