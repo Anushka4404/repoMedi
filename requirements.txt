@@ -8,7 +8,9 @@ streamlit
 langchain
 chromadb
 langchain-chroma
-
+chromadb==0.4.22
+langchain
+langchain-chroma
 Flask==3.0.3
 Flask-Cors==5.0.0
 requests==2.32.3
