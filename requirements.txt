@@ -4,6 +4,11 @@ numpy==1.26.4
 scikit-learn==1.5.2
 matplotlib==3.9.2
 seaborn==0.13.2
+streamlit
+langchain
+chromadb
+langchain-chroma
+
 Flask==3.0.3
 Flask-Cors==5.0.0
 requests==2.32.3
