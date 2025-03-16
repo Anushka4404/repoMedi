@@ -6,6 +6,5 @@ langchain-chroma
 langchain-groq
 pinecone-client
 chromadb
-openai
-pdfplumber
+langchain-community
 pypdf
